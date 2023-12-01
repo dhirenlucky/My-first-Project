@@ -33,7 +33,7 @@ h1{
     /* background-color: lightgray; */
     text-align : left;
     padding-left: 10px;
-    border: none;
+    /* border: none; */
     margin-bottom: 10px;
     border: 1px solid gray;
     border-radius: 5px;
@@ -46,16 +46,16 @@ h1{
     /* background-color: lightgray; */
     text-align : left;
     padding-left: 10px;
-    border: none; 
+    /* border: none;  */
     margin-bottom: 10px;  
     border: 1px solid gray;
     border-radius: 5px;
 }
 
-#Login{
+#submit{
     color: white;
     display: block;
-    height: 4vh;
+    height: 6vh;
     width: 20.7vw;
     background-color: rgb(9, 108, 148);
     text-align : center;
