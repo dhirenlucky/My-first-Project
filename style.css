@@ -1,0 +1,64 @@
+h1{
+    margin-left: 100px;
+    color: white;
+    background-color: blue;
+    display: inline-block;
+}
+
+#num{
+    height: 4vh;
+    width: 20vw;
+    background-color: lightgray;
+    text-align : left;
+    padding-left: 10px;
+    border: none;
+    margin-bottom: 5px;
+}
+
+#code{
+    height: 4vh;
+    width: 20vw;
+    background-color: lightgray;
+    text-align : left;
+    padding-left: 10px;
+    border: none; 
+    margin-bottom: 10px;  
+}
+
+#Login{
+    color: white;
+    display: block;
+    height: 4vh;
+    width: 20.7vw;
+    background-color: blue;
+    text-align : center;
+    border: none;  
+    padding-top: 9px;
+    margin-bottom: 5px;
+}
+
+#Forgotten{
+    color: blue;
+    margin-left: 100px;
+    /* margin-bottom: ; */
+}
+
+.separator{
+    /* display: flex; */
+    margin-top: 15px;
+    margin-left: 10%;
+    
+}
+
+#newcomer{
+    color: black;
+    height: 4vh;
+    width: 15vw;
+    border: 1px solid black;
+    text-align: center;
+    display: block;
+    margin-left: 3%;
+    padding-top: 11px;
+    margin-bottom: 10%;
+}
+
