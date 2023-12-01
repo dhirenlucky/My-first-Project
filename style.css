@@ -1,28 +1,55 @@
 h1{
-    margin-left: 100px;
-    color: white;
-    background-color: blue;
+    margin-left: 16vw;
+    margin-top: 25vh;
+    color: blue;
+    /* background-color: blue; */
     display: inline-block;
+    font-size: 4rem;
+    margin-bottom: 0;
+    /* margin-right: 0; */
 }
 
+.box{
+    float: right;
+    
+    margin-right: 20%;
+    /* margin-top: 10%; */
+    /* border: 1px solid grey; */
+    height: 45vh;
+    width: 25vw;
+    padding: 2%;
+    box-sizing: border-box;
+    background-color: white;
+    padding-top: 1.3%;
+    margin-top: 0;
+    border-radius: 15px;
+}
+
+
+
 #num{
-    height: 4vh;
+    height: 7vh;
     width: 20vw;
-    background-color: lightgray;
+    /* background-color: lightgray; */
     text-align : left;
     padding-left: 10px;
     border: none;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    
 }
-
+ 
 #code{
-    height: 4vh;
+    height: 7vh;
     width: 20vw;
-    background-color: lightgray;
+    /* background-color: lightgray; */
     text-align : left;
     padding-left: 10px;
     border: none; 
     margin-bottom: 10px;  
+    border: 1px solid gray;
+    border-radius: 5px;
 }
 
 #Login{
@@ -30,35 +57,70 @@ h1{
     display: block;
     height: 4vh;
     width: 20.7vw;
-    background-color: blue;
+    background-color: rgb(9, 108, 148);
     text-align : center;
     border: none;  
     padding-top: 9px;
     margin-bottom: 5px;
+    text-decoration: none;
+    font-size: larger;
+    border-radius: 5px;
 }
 
 #Forgotten{
     color: blue;
     margin-left: 100px;
-    /* margin-bottom: ; */
+    text-decoration: none;
+    /* margin-bottom: 100px ; */
 }
 
-.separator{
-    /* display: flex; */
+/* .separator{
+    display: flex;
     margin-top: 15px;
     margin-left: 10%;
     
+} */
+
+hr{
+    margin-top: 20px;
 }
 
 #newcomer{
-    color: black;
+    color: white ;
     height: 4vh;
     width: 15vw;
     border: 1px solid black;
     text-align: center;
     display: block;
-    margin-left: 3%;
+    margin-left: 15%;
     padding-top: 11px;
     margin-bottom: 10%;
+    background-color: green;
+    text-decoration: none;
+    font-size: larger;
+    border-radius: 5px;
 }
+
+.main{
+    /* background-color: rgb(230, 224, 224); */
+    width: 100vw;
+    height: 100vh;
+    display: inline;
+}
+
+p{
+    font-size: 2rem;
+    margin-left: 16vw;
+    margin-top: 0;
+    /* margin-right: 0; */
+}
+
+.thg{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgb(230, 224, 224);
+    
+}
+
 
