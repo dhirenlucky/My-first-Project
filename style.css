@@ -2,19 +2,15 @@ h1{
     margin-left: 16vw;
     margin-top: 25vh;
     color: blue;
-    /* background-color: blue; */
     display: inline-block;
     font-size: 4rem;
     margin-bottom: 0;
-    /* margin-right: 0; */
+   
 }
 
 .box{
     float: right;
-    
     margin-right: 20%;
-    /* margin-top: 10%; */
-    /* border: 1px solid grey; */
     height: 45vh;
     width: 25vw;
     padding: 2%;
@@ -30,10 +26,8 @@ h1{
 #num{
     height: 7vh;
     width: 20vw;
-    /* background-color: lightgray; */
     text-align : left;
     padding-left: 10px;
-    /* border: none; */
     margin-bottom: 10px;
     border: 1px solid gray;
     border-radius: 5px;
@@ -43,10 +37,8 @@ h1{
 #code{
     height: 7vh;
     width: 20vw;
-    /* background-color: lightgray; */
     text-align : left;
     padding-left: 10px;
-    /* border: none;  */
     margin-bottom: 10px;  
     border: 1px solid gray;
     border-radius: 5px;
@@ -71,15 +63,8 @@ h1{
     color: blue;
     margin-left: 100px;
     text-decoration: none;
-    /* margin-bottom: 100px ; */
-}
-
-/* .separator{
-    display: flex;
-    margin-top: 15px;
-    margin-left: 10%;
     
-} */
+}
 
 hr{
     margin-top: 20px;
@@ -102,7 +87,7 @@ hr{
 }
 
 .main{
-    /* background-color: rgb(230, 224, 224); */
+    
     width: 100vw;
     height: 100vh;
     display: inline;
@@ -112,7 +97,7 @@ p{
     font-size: 2rem;
     margin-left: 16vw;
     margin-top: 0;
-    /* margin-right: 0; */
+    
 }
 
 .thg{
@@ -122,5 +107,11 @@ p{
     background-color: rgb(230, 224, 224);
     
 }
+
+footer{
+    margin-top: 40px;
+    font-size: large;
+    }
+
 
 
